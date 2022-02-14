@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saigopu
+- 👋 Hi, I’m A.Gopikrishna
 - 👀 I’m interested in learning coding languages
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
