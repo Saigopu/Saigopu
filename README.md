@@ -1,8 +1,8 @@
 - 👋 Hi, I’m A.Gopikrishna
-- 👀 I’m interested in learning coding languages
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in problrm solving analysis
+- 🌱 I’m currently focusssing on competitive programming and problem solving analysis 
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 
 <!---
 Saigopu/Saigopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
