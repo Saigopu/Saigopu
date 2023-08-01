@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- <div align="center">
    <a href="https://justpaste.it/redirect/9dhen/https%3A%2F%2Fprofile-counter.glitch.me%2FSimply-huMAN%2Fcount.svg">![Visitor Count](https://profile-counter.glitch.me/Simply-huMAN/count.svg)</a>
 </div> -->
-**Visitors Count**: ![Visitor Count](https://profile-counter.glitch.me/Simply-huMAN/count.svg)
+**Visitors Count**: ![Visitor Count](https://profile-counter.glitch.me/Saigopu/count.svg)
 
 🤹‍♀️ Skills:
 
